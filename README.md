@@ -12,7 +12,7 @@ The observation space consists of 33 variables corresponding to position, rotati
 The task is episodic, and in order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes.
 
 ## Instructions
-This project implement a reinforcement learning method called Deep Deterministic Policy Gradient. Refer the paper [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) to see more DDPG algrithm details. 
+This project implement a reinforcement learning method called Deep Deterministic Policy Gradient(DDPG). DDPG is an Actor-Critic algorithm which concurrently learns a Q-function and a policy. It uses off-policy data and the Bellman equation to update the Q-function, and uses the Q-function to update the policy. Refer the paper [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) to see more DDPG algrithm details. 
 
 And refer [the Report file]() to see my hyperparameters details, along with ideas for future work.
 
