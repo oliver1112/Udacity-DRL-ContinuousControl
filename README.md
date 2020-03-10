@@ -16,7 +16,9 @@ This project implement a reinforcement learning method called Deep Deterministic
 
 And refer [the Report file]() to see my hyperparameters details, along with ideas for future work.
 
-Follow the code in [the ipynb file]() in order to train the agent. The algorithm is written in PyTorch and Python 3
+Follow the code in [the ipynb file]() in order to train the agent.
+
+The algorithm is written in PyTorch and Python 3
 
 
 ## Getting Started
