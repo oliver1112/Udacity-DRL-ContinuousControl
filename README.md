@@ -12,10 +12,11 @@ The observation space consists of 33 variables corresponding to position, rotati
 The task is episodic, and in order to solve the environment, your agent must get an average score of +30 over 100 consecutive episodes.
 
 ## Instructions
-This project implement a reinforcement learning method called Deep Deterministic Policy Gradient. Refer the paper [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) to see more DDPG algrithm details. And refer [the Report file]() to see my hyperparameters details, along with ideas for future work.
+This project implement a reinforcement learning method called Deep Deterministic Policy Gradient. Refer the paper [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971) to see more DDPG algrithm details. 
 
+And refer [the Report file]() to see my hyperparameters details, along with ideas for future work.
 
-follow the code in [the ipynb file]() in order to train the agent.
+Follow the code in [the ipynb file]() in order to train the agent. The algorithm is written in PyTorch and Python 3
 
 
 ## Getting Started
