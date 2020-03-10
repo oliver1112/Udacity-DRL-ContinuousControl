@@ -26,7 +26,7 @@ To set up your python environment to run the code in this repository, follow the
 pip install .
 ```
 
-2.You don't need to choose the complete Unity environment, just choose the environment that matches your operating system to install the  environment.
+2. You don't need to choose the complete Unity environment, just choose the environment that matches your operating system to install the  environment.
 
 I use the Windows (64-bit) operating system, [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip) to install.
 
