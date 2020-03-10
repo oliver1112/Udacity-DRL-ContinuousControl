@@ -31,9 +31,9 @@ pip install .
 
 2. You don't need to choose the complete Unity environment, just choose the environment that matches your operating system to install the  environment.
 
-I use the Windows (64-bit) operating system, [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip) to install.
+    I use the Windows (64-bit) operating system, [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip) to install.
 
-For other operating system, please download the environment from one of the links below.
+    For other operating system, please download the environment from one of the links below.
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
 - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
 - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
