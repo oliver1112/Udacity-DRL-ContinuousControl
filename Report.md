@@ -56,6 +56,9 @@ The Environment solved in 91 episodes, which means it receive an average reward 
 The reward changes with the number of episode as shown below, the blue line is the score change with episode, while the orange one is the average score.
 ![plot](assets/score_plot.png)
 
+As shown below, the tip of the trained agent can reach the target position (green pot) and then rotate with it.
+![trained agent](assets/trained_agent.gif)
+
 ## Ideas for Future Work
 - Try to use algorithms like PPO, A3C, and D4PG that use distributed parallel copies of the same agent to solve the second version.
 
