@@ -1,4 +1,4 @@
-# Deep Reinforcement Learning Project : Navigation
+# Deep Reinforcement Learning Project : Continuous Control 
 My solution to Udacity Deep Reinforcement Learning Nanodegree 's Project 2 - Continuous Control 
 
 ## Environment Details
